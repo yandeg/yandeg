@@ -5,6 +5,8 @@ Student and intern
 ------------------
 
 “Live as if you were to die tomorrow. Learn as if you were to live forever.” Mahatma Gandhi
+![simon gif gurren](https://github.com/yandeg/yandeg/assets/59888719/545e112d-e858-4f0e-8921-1050eb09195a)
+
 
 * 🌍  I'm based in Toulouse
 * 🧠  I'm learning Linear algebra
