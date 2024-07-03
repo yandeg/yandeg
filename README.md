@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student and intern
 ------------------
 
-“Learning is the only thing the mind never exhausts, never fears, and never regrets.”
-Leonardo da Vinci
+"Toutes les grandes personnes ont d'abord été des enfants. Mais peu d'entre elles s'en souviennent." Antoine de Saint-Exupéry
+
 ![simon gif gurren](https://github.com/yandeg/yandeg/assets/59888719/545e112d-e858-4f0e-8921-1050eb09195a)
 
 
