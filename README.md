@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yanis
 =============================================================================================================================
 
-Student and intern
-------------------
+Master's student and intern
+---------------------------
 
 "Toutes les grandes personnes ont d'abord été des enfants. Mais peu d'entre elles s'en souviennent." Antoine de Saint-Exupéry
 
