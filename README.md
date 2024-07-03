@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student and intern
 ------------------
 
-“Live as if you were to die tomorrow. Learn as if you were to live forever.” Mahatma Gandhi
+“Learning is the only thing the mind never exhausts, never fears, and never regrets.”
+Leonardo da Vinci
 ![simon gif gurren](https://github.com/yandeg/yandeg/assets/59888719/545e112d-e858-4f0e-8921-1050eb09195a)
 
 
