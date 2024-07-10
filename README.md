@@ -4,11 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Master's student and intern
 ---------------------------
 
-"Toutes les grandes personnes ont d'abord été des enfants. Mais peu d'entre elles s'en souviennent." Antoine de Saint-Exupéry
-
-![simon gif gurren](https://github.com/yandeg/yandeg/assets/59888719/545e112d-e858-4f0e-8921-1050eb09195a)
-
-
 * 🌍  I'm based in Toulouse
 * 🧠  I'm learning Linear algebra
 * 🤝  I'm open to collaborating on interesting projects
@@ -27,3 +22,6 @@ Master's student and intern
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/yandeg"><img src="https://github-readme-stats.vercel.app/api?username=yandeg&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ec4899&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="yandeg's GitHub stats" /></a>
+
+
+![simon gif gurren](https://github.com/yandeg/yandeg/assets/59888719/545e112d-e858-4f0e-8921-1050eb09195a)
