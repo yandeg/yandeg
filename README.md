@@ -23,5 +23,3 @@ Master's student and intern
 
 <a href="http://www.github.com/yandeg"><img src="https://github-readme-stats.vercel.app/api?username=yandeg&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ec4899&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="yandeg's GitHub stats" /></a>
 
-
-![simon gif gurren](https://github.com/yandeg/yandeg/assets/59888719/545e112d-e858-4f0e-8921-1050eb09195a)
