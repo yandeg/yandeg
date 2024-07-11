@@ -1,3 +1,5 @@
+![aqua eye gif](https://github.com/yandeg/yandeg/assets/59888719/9d408aa9-03fd-4641-a2d0-9f062e3ff048)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yanis
 =============================================================================================================================
 
