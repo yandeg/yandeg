@@ -7,7 +7,7 @@ Master's student and intern
 ---------------------------
 
 * 🌍  I'm based in Toulouse
-* 🧠  I'm learning Linear algebra
+* 🧠  I'm learning, if i'm not learning i'm either dead or asleep
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
