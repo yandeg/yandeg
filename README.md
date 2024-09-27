@@ -20,7 +20,3 @@ Master's student and intern
 
 <p align="left"> <a href="https://www.github.com/yandeg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/YanisDeg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/yandeg"><img src="https://github-readme-stats.vercel.app/api?username=yandeg&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ec4899&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="yandeg's GitHub stats" /></a>
-
